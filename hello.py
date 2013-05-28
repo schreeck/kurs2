@@ -1,1 +1,1 @@
-prin 'Hallo, world!'
+print 'Hallo world!'
